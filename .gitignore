@@ -105,3 +105,6 @@ venv.bak/
 
 #daniel Kiwi API
 config.py
+
+#Apple File
+.DS_Store
