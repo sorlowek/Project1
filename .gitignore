@@ -108,3 +108,4 @@ config.py
 
 #Apple File
 .DS_Store
+**/.DS_Store
